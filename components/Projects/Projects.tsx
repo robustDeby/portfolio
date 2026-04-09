@@ -103,12 +103,6 @@ export const Projects = ({ projects }: { projects: ProjectsProps }) => {
                                   {project.title}
                                 </h3>
 
-                                <time
-                                  className="projects__item__card__date"
-                                  dateTime={project.startDate}
-                                >
-                                  {project.startDate}
-                                </time>
                               </div>
                             </div>
 

@@ -20,11 +20,9 @@
     }
   },
   "home": {
-    "name": "Lewis Hadden",
+    "name": "Wiktor Malex",
     "titles": [
       "Senior Full Stack Engineer",
-      "Lead Frontend Developer",
-      "Lead Software Engineer",
       "Infrastructure Architect"
     ],
     "tagline": "Building exceptional digital experiences with modern web technologies",
@@ -49,21 +47,21 @@
     "label": "Get to know me",
     "openToWorkText": "Available for opportunities",
     "descriptionHeader": "Hello! <span class='wave'>👋</span>",
-    "description": "My name is Lewis, and I’m a highly experienced senior full stack engineer based in Peterborough, UK, available for remote and on-site work across the UK and Europe. I've been working in the web development industry for almost 9 years. I have led several development teams for large-scale projects and worked as an independent developer on both in-house and public-facing products.<br /><br />In my free time, I enjoy going to the gym, boxing, and playing the guitar.<br /><br />I am currently seeking my next opportunity as a Senior or Lead Full Stack developer, either as a freelancer or under permanent employment.<br /><br />Keep scrolling to see my past projects, skills and experience.",
+    "description": "My name is Wiktor, and I am a Senior Full Stack Engineer with over 5 years of professional experience designing, developing, and deploying scalable, high-performance web applications. I've been working in the web development industry for almost 6 years. I thrive in collaborative, cross-functional teams and enjoy building reusable component libraries, scalable architectures, and automated workflows that accelerate product delivery.<br /><br />In my free time, I enjoy going to the gym, swimming, and watching football.<br /><br />I am currently seeking my next opportunity as a Senior Full Stack engineer.<br /><br />Keep scrolling to see my past projects, skills and experience.",
     "image": {
-      "url": "/static/images/portrait.png",
+      "url": "/static/images/avatar.png",
       "size": {
         "width": 2252,
         "height": 2526
       }
     },
     "cv": {
-      "download": "Lewis_Hadden_CV.pdf"
+      "download": "resume.pdf"
     },
     "cta": {
       "primary": {
         "text": "Download CV",
-        "url": "/static/documents/Lewis_Hadden_CV.pdf",
+        "url": "/static/documents/resume.pdf",
         "icon": "mdi:download",
         "ariaLabel": "Download CV as PDF"
       },
@@ -82,147 +80,67 @@
     },
     "items": [
       {
-        "company": "ADP",
-        "title": "Senior Full Stack Engineer (Contractor)",
-        "years": "Jan 2025 - Present",
-        "mainTech": ["React", "Tailwind CSS", "Cypress", "Webpack"],
-        "icon": "devicon:react",
-        "technologies": [
-          "React Testing Library",
-          "JavaScript",
-          "REST API",
-          "Jest",
-          "Virtual Machines"
-        ]
-      },
-      {
-        "company": "ERGO Travel Insurance",
-        "title": "Lead Full Stack Engineer",
-        "years": "Apr 2024 - Nov 2024",
-        "mainTech": ["Next.js", "Azure", "React", "TypeScript", "CSS Modules"],
+        "company": "Darly Solutions",
+        "title": "Senior Full Stack Engineer",
+        "years": "Apr 2024 - Present",
+        "mainTech": ["React", "Next.js", "Node.js", "Nest.js", "TypeScript","REST API"],
         "icon": "devicon:nextjs",
         "technologies": [
-          "Function Apps",
-          "Cosmos DB",
-          "Event Hubs",
-          "Blob & Table Storage",
-          "DevOps Pipelines",
+          "AWS",
+          "Azure",
           "Docker",
-          "Node.js",
-          "Jest"
+          "CI/CD Pipelines",
+          "MongoDB",
+          "PostgreSQL",
+          "Vue.js",
+          "Tailwind CSS"
         ]
       },
       {
-        "company": "Sopra Steria",
-        "title": "Cloud Infrastructure Architect",
-        "years": "Jun 2023 – Dec 2023",
-        "mainTech": ["Azure"],
-        "icon": "devicon:azure",
-        "technologies": [
-          "REST API",
-          "Cosmos DB",
-          "Serverless Function",
-          "Content Delivery Network",
-          "Blob Storage"
-        ]
-      },
-      {
-        "company": "Sopra Steria",
-        "title": "Lead Software Engineer",
-        "years": "Aug 2022 - Apr 2023",
-        "mainTech": ["Angular 8+", "React", "Flutter", "TypeScript"],
-        "icon": "devicon:angularjs",
-        "technologies": [
-          "Node.js",
-          "HTML5",
-          "SCSS / CSS3",
-          "Jest",
-          "PowerBI",
-          "Split Tunnelling (VPN)"
-        ]
-      },
-      {
-        "company": "IBM",
-        "title": "Senior Full Stack Developer",
-        "years": "Jan 2022 - Jul 2022",
-        "mainTech": ["React", "Redux", "TypeScript", "AWS"],
+        "company": "Infloet",
+        "title": "Full Stack Engineer",
+        "years": "Apr 2022 - Nov 2024",
+        "mainTech": [ "React", "TypeScript", "Node.js", "REST API"],
         "icon": "devicon:react",
         "technologies": [
-          "JavaScript",
-          "Node.js",
-          "Carbon Design System",
-          "HTML5",
-          "SCSS / CSS3",
-          "Jest + Enzyme",
-          "CloudFormation",
-          "DynamoDB",
-          "CodeCommit",
-          "CodeBuild",
-          "CodePipeline",
-          "Lambda",
-          "EC2",
-          "S3",
-          "API Gateway",
-          "IAM",
-          "JIRA"
+          "MongoDB",
+          "MySQL",
+          "AWS",
+          "Tailwind CSS",
+          "WebdriverIO",
+          "Cypress",
+          "Angular"
         ]
       },
       {
-        "company": "IBM",
-        "title": "Lead Front End Developer",
-        "years": "Jan 2021 - Jan 2022",
-        "mainTech": ["React", "Redux", "TypeScript", "AWS"],
-        "icon": "devicon:react",
+        "company": "Zaven",
+        "title": "Full Stack Developer",
+        "years": "Nov 2022 – Oct 2023",
+        "mainTech": ["React", "Vue.js", "Next.js",  "Node.js","TypeScript"],
+        "icon": "devicon:vuejs",
         "technologies": [
-          "HTML5",
-          "SCSS / CSS3",
-          "Jest + Enzyme",
-          "Micro-Frontends",
-          "Carbon Design System",
-          "FeatureHub",
-          "GitHub Workflows",
-          "Adobe Experience Manager",
-          "Adobe Launch",
-          "JIRA"
-        ]
-      },
-      {
-        "company": "IBM",
-        "title": "Front End Developer",
-        "years": "Aug 2018 - Jan 2021",
-        "mainTech": ["React", "Redux", "TypeScript", "Adobe Experience Manager"],
-        "icon": "devicon:react",
-        "technologies": [
-          "JavaScript",
-          "Webpack",
-          "Babel",
-          "HTML5",
-          "SCSS / CSS3",
-          "Jest + Enzyme",
-          "Carbon Design System",
-          "Adobe Dynamic Tag Manager",
-          "Cookie Control (CIVIC)",
+          "Tailwind CSS",
+          "REST APIs",
+          "MongoDB",
+          "PostgreSQL",
+          "Cypress",
+          "WebdriverIO",
           "Docker",
-          "Linux / Bash",
-          "Apache",
-          "AWS"
+          "Git",
+          "CI/CD Pipelines"
         ]
       },
       {
-        "company": "IBM",
-        "title": "QA Tester",
-        "years": "Jan 2018 - Aug 2018",
-        "mainTech": ["Selenium", "WebdriverIO", "Cucumber / Gherkin"],
-        "icon": "skill-icons:selenium",
+        "company": "Synodus",
+        "title": "Frontend Developer",
+        "years": "Jun 2022 – Nov 2022",
+        "mainTech": ["React", "Vue.js", "JavaScript","HTML","SCSS/CSS3","Tailwind CSS","REST API"],
+        "icon": "devicon:react",
         "technologies": [
-          "BrowserStack",
-          "Appium",
-          "Node.js",
-          "JIRA",
-          "React",
-          "JavaScript",
-          "HTML",
-          "CSS"
+          "WebdriverIO",
+          "AWS",
+          "Azure",
+          "Figma"
         ]
       }
     ]
@@ -232,9 +150,9 @@
     "label": "What I've built",
     "items": [
       {
-        "title": "ADP RUN",
+        "title": "Campo alle Comete",
         "startDate": "2025",
-        "description": "I am currently contracted to ADP, a global leader in payroll and HR solutions, where I am working on their ADP RUN platform. My role involves developing new features and enhancements for the platform, using feature flags to enable a highly customisable user experience. I use React and Tailwind CSS to build a highly responsive, mobile-first user experience. I am also responsible for writing comprehensive unit tests using Jest and React Testing Library, as well as e2e tests using Cypress to ensure the reliability and maintainability of the codebase.",
+        "description":"Developed a modern, user-focused web application for Campo alle Comete, designed to deliver an engaging digital experience for a premium winery brand. The platform enables users to explore the winery’s story, products, and experiences through a visually rich and intuitive interface.The application provides seamless navigation across content sections, including product showcases, brand storytelling, and visitor information, ensuring a consistent and responsive experience across devices. Special attention was given to performance and usability, allowing fast content loading and smooth interactions even on media-heavy pages.By focusing on clean UI structure and efficient data handling, the platform ensures reliable content delivery and an enhanced user journey, supporting both brand presentation and customer engagement goals.",
         "theme": {
           "text": "light",
           "border": "light",
@@ -243,58 +161,45 @@
         "thumbnail": "tdesign:money",
         "images": [
           {
-            "url": "/static/images/projects/run/home-page.png",
+            "url": "/static/images/apps/angular/home.png",
             "size": {
               "width": 3584,
               "height": 1956
             }
-          },
-          {
-            "url": "/static/images/projects/run/hero.png",
-            "size": {
-              "width": 620,
-              "height": 394
-            }
-          },
-          {
-            "url": "/static/images/projects/run/pde.webp",
-            "size": {
-              "width": 1492,
-              "height": 839
-            }
-          },
-          {
-            "url": "/static/images/projects/run/login-screen.png",
-            "size": {
-              "width": 3024,
-              "height": 1638
-            }
           }
         ],
-        "url": "https://online.adp.com/signin/v1/?APPID=RUN&productId=80e309c3-70c3-bae1-e053-3505430b5495",
+        "url": "https://www.campoallecomete.it/#!/en",
         "technologies": [
           {
             "class": "devicon:react",
             "name": "React"
           },
           {
+            "class": "devicon:nextjs",
+            "name": "Next.js"
+          },
+          {
+            "class": "devicon:nodejs",
+            "name": "NodeJS"
+          },
+          {
             "class": "devicon:tailwindcss",
             "name": "Tailwind CSS"
           },
           {
-            "class": "devicon:webpack",
-            "name": "Webpack"
+            "class": "devicon:postgresql",
+            "name": "PostgreSQL"
           },
           {
-            "class": "devicon:cypressio",
-            "name": "Cypress IO"
+            "class": "devicon:typescript",
+            "name": "TypeScript"
           }
         ]
       },
       {
-        "title": "Sanctions Checker",
+        "title": "Booke AI",
         "startDate": "2024",
-        "description": "I developed a sanctions checking tool for an insurance MGA which allows them to search for a name against the public database of open sanctions to determine whether or not a user is eligible for travel insurance. The tool allows them to view all of the publicly available data associated with a sanctioned person. We tested various sanction checking tools, for example OFSI - HM Treasury and the government UK Sanctions List, and found the accuracy of my solution to be far superior to all of the other tools we tested against. The tool consists of 2 parts on the backend, a daily job which queries the latest dataset and stores them in a CosmosDB instance, and an API that performs a search against the database given a name as input. The front-end is a Next.js application that provides a search input field and interfaces with the API to show the set of results. I built the tool to perform a thorough search by consolidating several SQL queries to check against multiple search vectors such as aliases and abbreviated first names to ensure that no sanctions are missed.",
+        "description":"Developed an AI-driven financial automation platform for Booke AI, enabling users to streamline bookkeeping processes and improve data accuracy across accounting workflows.Built a high-performance backend using Node.js, Express.js, and Python with TypeScript, delivering scalable RESTful APIs to support real-time data processing and integrations. Designed efficient data handling and optimized database interactions, improving API response times and overall system reliability.The platform automates key financial operations such as transaction categorization, reconciliation, and data matching, reducing manual effort while ensuring accuracy. Implemented structured data processing logic to handle complex financial datasets and support consistent, reliable outputs for end users.Developed a responsive Next.js frontend that provides an intuitive interface for managing and reviewing financial data, ensuring seamless interaction with backend services and an enhanced user experience.",
         "theme": {
           "text": "light",
           "border": "light",
@@ -303,46 +208,26 @@
         "thumbnail": "mdi:gavel",
         "images": [
           {
-            "url": "/static/images/projects/sanctions/login-screen.png",
+            "url": "/static/images/apps/AI/image.png",
             "size": {
               "width": 3024,
-              "height": 1646
+              "height": 2646
             }
           }
         ],
-        "url": "https://sanctions-checker.etisolutionshub.co.uk",
+        "url": "https://booke.ai/en-us/",
         "technologies": [
           {
             "class": "devicon:nextjs",
             "name": "Next.js"
           },
           {
-            "class": "logos:mantine-icon",
-            "name": "Mantine UI"
+            "class": "devicon:python",
+            "name": "Python"
           },
           {
-            "class": "devicon:azure",
-            "name": "Azure"
-          },
-          {
-            "class": "devicon:cosmosdb",
-            "name": "Azure CosmosDB"
-          },
-          {
-            "class": "mdi:function-variant",
-            "name": "Serverless Functions"
-          },
-          {
-            "class": "vscode-icons:file-type-azurepipelines",
-            "name": "DevOps Pipelines"
-          },
-          {
-            "class": "carbon:object-storage",
-            "name": "Object Storage"
-          },
-          {
-            "class": "devicon:nodejs",
-            "name": "NodeJS"
+            "class": "devicon:typescript",
+            "name": "TypeScript"
           },
           {
             "class": "dashicons:rest-api",
@@ -353,7 +238,7 @@
       {
         "title": "Oralieve ",
         "startDate": "2024",
-        "description": "I contracted for Oralieve to complete several tasks on their Shopify store. I was responsible for implementing a new patient samples form, which allows dental professionals to request free samples of Oralieve products for their patients. I also implemented a minimum spend free shipping feature, as well as many other new features and bugfixes.",
+        "description": "I was responsible for implementing a new patient samples form, which allows dental professionals to request free samples of Oralieve products for their patients. I also implemented a minimum spend free shipping feature, as well as many other new features and bugfixes.",
         "theme": {
           "text": "light",
           "border": "light",
@@ -382,6 +267,55 @@
             "class": "logos:shopify",
             "name": "Shopify"
           }
+        ]
+      },
+      {
+        "title": "CMRI Jeans for Genes Campaign",
+        "startDate": "2023",
+        "description":"Developed a user-centric fundraising and awareness platform for Children's Medical Research Institute through the Jeans for Genes campaign, designed to support donations and promote medical research initiatives.Built a responsive and high-performance web application enabling users to easily access campaign information, participate in fundraising activities, and complete secure online donations. Focused on delivering a seamless user experience with intuitive navigation and optimized page performance.Implemented scalable frontend components and integrated backend services to ensure reliable data handling and smooth user interactions, supporting high traffic volumes during campaign periods.",
+        "thumbnail": "mdi:home-battery",
+        "images": [
+         {
+            "url": "/static/images/apps/vue/home.png",
+            "size": {
+              "width": 3024,
+              "height": 3882
+            }
+          }
+        ],
+        "theme": {
+          "text": "light",
+          "border": "light",
+          "background": "dark"
+        },
+        "url": "https://www.cmrijeansforgenes.org.au/",
+        "technologies": [
+          {
+            "class": "devicon:vuejs",
+            "name": "Vue.js"
+          },
+          {
+            "class": "devicon:javascript",
+            "name": "JavaScript"
+          },
+          {
+            "class": "material-symbols:api",
+            "name": "REST API"
+          },
+          {
+            "class": "devicon:nodejs",
+            "name": "NodeJS"
+          },
+          
+          {
+            "class": "devicon:mongodb",
+            "name": "MongoDB"
+          },
+          {
+            "class": "vscode-icons:file-type-azurepipelines",
+            "name": "CI/CD Pipelines"
+          }
+
         ]
       },
       {
@@ -440,180 +374,6 @@
         ]
       },
       {
-        "title": "Audi Form Builder",
-        "startDate": "2021",
-        "description": "I led a development team in creating a new advanced technical capability. This capability allowed content editors to create custom forms on the Audi website without writing new code. They can drag and drop any of our React micro-frontends onto a new page, and the system will work seamlessly. I was responsible for designing and implementing the solution while leading the development team throughout the project. Currently, the Audi site has four forms created using the Audi Form Builder.",
-        "theme": {
-          "text": "light",
-          "border": "light",
-          "background": "dark"
-        },
-        "thumbnail": "simple-icons:googleforms",
-        "images": [
-          {
-            "url": "/static/images/projects/afb/BATD.png",
-            "size": {
-              "width": 3592,
-              "height": 3978
-            }
-          },
-          {
-            "url": "/static/images/projects/afb/AU.png",
-            "size": {
-              "width": 3592,
-              "height": 3034
-            }
-          },
-          {
-            "url": "/static/images/projects/afb/RAC.png",
-            "size": {
-              "width": 3592,
-              "height": 3914
-            }
-          },
-          {
-            "url": "/static/images/projects/afb/RYI.png",
-            "size": {
-              "width": 3592,
-              "height": 3438
-            }
-          }
-        ],
-        "url": "https://www.audi.co.uk/uk/web/en/call-me-back.html",
-        "technologies": [
-          {
-            "class": "devicon:react",
-            "name": "React"
-          },
-          {
-            "class": "devicon:typescript",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon:redux",
-            "name": "Redux"
-          }
-        ]
-      },
-      {
-        "title": "Cookie Control",
-        "startDate": "2018",
-        "description": "I was responsible for single-handedly designing and implementing the Cookie Control system for the Audi UK website to ensure compliance with GDPR regulations. To achieve this, I utilized Adobe Launch to develop custom rule sets and JavaScript tags, allowing me to control the triggering of third-party tracking tags and custom analytics based on the users' cookie settings.",
-        "theme": {
-          "text": "light",
-          "border": "light",
-          "background": "dark"
-        },
-        "thumbnail": "emojione-monotone:cookie",
-        "images": [
-          {
-            "url": "/static/images/projects/cookies/popup-small.png",
-            "size": {
-              "width": 1198,
-              "height": 906
-            }
-          },
-          {
-            "url": "/static/images/projects/cookies/popup-banner.png",
-            "size": {
-              "width": 2294,
-              "height": 1430
-            }
-          },
-          {
-            "url": "/static/images/projects/cookies/side-nav.png",
-            "size": {
-              "width": 2784,
-              "height": 2014
-            }
-          }
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon:javascript",
-            "name": "JavaScript"
-          },
-          {
-            "class": "arcticons:adobe-analytics",
-            "name": "Adobe Analytics"
-          },
-          {
-            "class": "emojione:cookie",
-            "name": "Cookies"
-          }
-        ]
-      },
-      {
-        "title": "Audi Digital Transformation",
-        "startDate": "2018",
-        "description": "During my five years on the Audi UK project, I was pivotal in modernizing and transforming their technology infrastructure. This involved migrating their legacy tech stack onto AWS and completely overhauling their website. As a front-end development team leader, I spearheaded the development and implementation of cutting-edge web apps and new SPAs. Additionally, I contributed to the technical innovation of their new infrastructure before transitioning into full-stack development. I gained a great deal of knowledge and experience during this project, and it remains one of my most cherished professional accomplishments.",
-        "thumbnail": "cbi:audi",
-        "images": [
-          {
-            "url": "/static/images/projects/spa/OSB.png",
-            "size": {
-              "width": 3600,
-              "height": 5364
-            }
-          },
-          {
-            "url": "/static/images/projects/spa/PX.png",
-            "size": {
-              "width": 3600,
-              "height": 2394
-            }
-          }
-        ],
-        "theme": {
-          "text": "light",
-          "border": "light",
-          "background": "dark"
-        },
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon:react",
-            "name": "React"
-          },
-          {
-            "class": "devicon:typescript",
-            "name": "TypeScript"
-          },
-          {
-            "class": "logos:aws",
-            "name": "AWS"
-          }
-        ]
-      },
-      {
-        "title": "Traffic Management Portal",
-        "startDate": "2022",
-        "description": "I created bespoke real-time traffic monitoring, reporting, and management dashboards for the Singapore Land Traffic Authority (LTA). These dashboards provided LTA with an online portal to view live updates on their road traffic data. The dashboards were user-friendly, intuitive, and graphical, allowing LTA to monitor road incidents, create custom automated alerts, view live congestion maps, statistical charts and graphs, and much more. As a result, this solution became one of the most highly-capable and feature-rich land traffic management solutions ever created. I was responsible for developing complex Angular components for the dashboards, migrating legacy code, and reviewing and deploying new code across environments.",
-        "thumbnail": "carbon:road",
-        "images": [],
-        "theme": {
-          "text": "light",
-          "border": "light",
-          "background": "dark"
-        },
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon:angularjs",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon:typescript",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon:sass",
-            "name": "SCSS"
-          }
-        ]
-      },
-      {
         "title": "Audex",
         "startDate": "2022",
         "description": "I architected and developed the front-end foundations for a significant module powering Audex, an online media visualisation and analysis portal. Renowned as a highly-skilled React developer, I was brought on board to single-handedly work on the React Front-End for the platforms' Analyse module. I began by developing a POC, successfully demonstrating the ability to display a PowerBI graph in a React app which subscribes to the PowerBI data source and renders real-time analysis data. After delivering on my React competency, I concluded my time on the project after creating the official repository for the Analyse module and the boilerplate containing the underlying technology to power the entire module.",
@@ -654,33 +414,6 @@
             "name": "PowerBI"
           }
         ]
-      },
-      {
-        "title": "Home Greening Microsite",
-        "startDate": "2023",
-        "description": "I was solely responsible for the architecture and design of the entire cloud infrastructure for a proposed new micro-site for UK Power Networks. I led the cloud and Front-End development teams during the design and planning phases, guiding them through the solution and implementation. The client preferred Azure as their cloud provider, and I worked closely with them to ensure that my infrastructure design complied with their strict security standards. After collaborating with the client's security team, I created an optimal cloud infrastructure solution that met their functional and security requirements. I analysed the functionality of the microsite to gather the data requirements and used this to devise the most efficient database schema for Cosmos DB. I also created detailed architecture diagrams and a comprehensive technical design breakdown of the Azure architecture, including justifications and decisions made for each service, along with implementation and configuration steps.",
-        "thumbnail": "mdi:home-battery",
-        "images": [],
-        "theme": {
-          "text": "light",
-          "border": "light",
-          "background": "dark"
-        },
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon:azure",
-            "name": "Azure"
-          },
-          {
-            "class": "material-symbols:api",
-            "name": "REST API"
-          },
-          {
-            "class": "devicon:cosmosdb",
-            "name": "Cosmos DB"
-          }
-        ]
       }
     ],
     "ctaText": "View Details"
@@ -697,6 +430,11 @@
       {
         "name": "Next.js",
         "class": "devicon:nextjs",
+        "level": "100"
+      },
+      {
+        "name": "Vue.js",
+        "class": "devicon:vuejs",
         "level": "100"
       },
       {
@@ -720,13 +458,23 @@
         "level": "100"
       },
       {
+        "name": "PHP",
+        "class": "devicon:php",
+        "level": "100"
+      },
+      {
+        "name": "Electron",
+        "class": "devicon:electron",
+        "level": "70"
+      },
+      {
         "name": "ViteJS",
         "class": "devicon:vitejs",
         "level": "70"
       },
       {
-        "name": "Bun",
-        "class": "devicon:bun",
+        "name": "Express",
+        "class": "devicon:express",
         "level": "80"
       },
       {
@@ -795,19 +543,19 @@
         "level": "90"
       },
       {
+        "name": "MySQL",
+        "class": "devicon:mysql",
+        "level": "95"
+      },
+      {
         "name": "MongoDB",
         "class": "devicon:mongodb",
         "level": "85"
       },
       {
-        "name": "Cosmos DB",
-        "class": "devicon:cosmosdb-wordmark",
+        "name": "PostgreSQL",
+        "class": "devicon:postgresql",
         "level": "85"
-      },
-      {
-        "name": "PowerBI",
-        "class": "logos:microsoft-power-bi",
-        "level": "35"
       },
       {
         "name": "AWS",
@@ -835,8 +583,8 @@
         "level": "80"
       },
       {
-        "name": "Cookie Control",
-        "class": "emojione:cookie",
+        "name": "Python",
+        "class": "devicon:python",
         "level": "90"
       },
       {
@@ -860,11 +608,6 @@
         "level": "85"
       },
       {
-        "name": "Linux",
-        "class": "devicon:linux",
-        "level": "90"
-      },
-      {
         "name": "Mantine UI",
         "class": "logos:mantine-icon",
         "level": "90"
@@ -874,11 +617,7 @@
         "class": "devicon:bootstrap",
         "level": "80"
       },
-      {
-        "name": "Carbon Design System",
-        "class": "carbon:carbon",
-        "level": "85"
-      },
+
       {
         "name": "Material UI",
         "class": "devicon:materialui",
@@ -923,36 +662,6 @@
         "name": "WebdriverIO",
         "class": "logos:webdriverio",
         "level": "85"
-      },
-      {
-        "name": "Cucumber / Gherkin",
-        "class": "logos:cucumber",
-        "level": "90"
-      },
-      {
-        "name": "Selenium",
-        "class": "skill-icons:selenium",
-        "level": "90"
-      },
-      {
-        "name": "BrowserStack",
-        "class": "devicon:browserstack",
-        "level": "70"
-      },
-      {
-        "name": "Appium",
-        "class": "logos:appium",
-        "level": "50"
-      },
-      {
-        "name": "JIRA",
-        "class": "devicon:jira",
-        "level": "90"
-      },
-      {
-        "name": "Notion",
-        "class": "devicon:notion",
-        "level": "75"
       }
     ]
   },
@@ -967,26 +676,26 @@
         {
           "name": "Email",
           "class": "clarity:email-solid",
-          "value": "lewishadden@gmail.com",
-          "link": "mailto:lewishadden@gmail.com"
+          "value": "wiktor6202025@gmail.com",
+          "link": "mailto:wiktor6202025@gmail.com"
         },
         {
           "name": "Mobile",
           "class": "clarity:phone-handset-solid",
-          "value": "+447714512514",
-          "link": "tel:+447714512514"
+          "value": "(207) 274-7791",
+          "link": "tel:(207) 274-7791"
         },
         {
           "name": "LinkedIn",
           "class": "mdi:linkedin",
-          "value": "@lewishadden",
-          "link": "https://www.linkedin.com/in/lewishadden/"
+          "value": "@wiktormalex",
+          "link": "https://www.linkedin.com/in/wiktor-malex/"
         },
         {
           "name": "GitHub",
           "class": "mdi:github",
-          "value": "@lewishadden",
-          "link": "https://github.com/lewishadden"
+          "value": "@wiktormalex",
+          "link": "https://github.com/robustDeby"
         }
       ]
     },

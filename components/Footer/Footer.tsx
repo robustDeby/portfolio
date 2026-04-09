@@ -63,18 +63,6 @@ export const Footer = ({ footer, navItems }: { footer: FooterProps; navItems: Na
           </div>
         </div>
 
-        <div className="footer__divider" />
-
-        <div className="footer__bottom">
-          <p className="footer__copy">
-            &copy; {new Date().getFullYear()} {name}
-          </p>
-          <p className="footer__built">
-            {builtWith.pretext}
-            <Icon icon={builtWith.icon} className="footer__heart" aria-hidden="true" />
-            {builtWith.posttext}
-          </p>
-        </div>
       </div>
     </footer>
   );
